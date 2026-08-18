@@ -1,0 +1,7 @@
+protobuf==3.20.3
+mediapipe==0.10.11
+opencv-python-headless>=4.10.0.84
+numpy==1.26.4
+streamlit==1.39.1
+streamlit-webrtc==0.67.4
+av>=14.0.0
